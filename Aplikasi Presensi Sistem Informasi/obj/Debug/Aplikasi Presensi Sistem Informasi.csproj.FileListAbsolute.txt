@@ -1,0 +1,87 @@
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Aplikasi Presensi Sistem Informasi.exe.config
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Aplikasi Presensi Sistem Informasi.exe
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Aplikasi Presensi Sistem Informasi.pdb
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi Presensi Sistem Informasi.csproj.AssemblyReference.cache
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi_Presensi_Sistem_Informasi.Properties.Resources.resources
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi Presensi Sistem Informasi.csproj.GenerateResource.cache
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi Presensi Sistem Informasi.csproj.CoreCompileInputs.cache
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi Presensi Sistem Informasi.exe
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi Presensi Sistem Informasi.pdb
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi_Presensi_Sistem_Informasi.GUI.Menu_Dasbor.resources
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi_Presensi_Sistem_Informasi.Form_Presensi.resources
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Aplikasi Presensi Sistem Informasi.exe.config
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Aplikasi Presensi Sistem Informasi.exe
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Aplikasi Presensi Sistem Informasi.pdb
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Google.Protobuf.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Compression.LZ4.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Hash.xxHash.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\MySql.Data.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Buffers.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.IO.Pipelines.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Memory.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Numerics.Vectors.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\ZstdSharp.dll
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Google.Protobuf.pdb
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Google.Protobuf.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Compression.LZ4.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Hash.xxHash.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\MySql.Data.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Buffers.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.IO.Pipelines.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Memory.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Numerics.Vectors.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi Presensi Sistem Informasi.csproj.AssemblyReference.cache
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi_Presensi_Sistem_Informasi.Form_Presensi.resources
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi_Presensi_Sistem_Informasi.GUI.Menu_Dasbor.resources
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi_Presensi_Sistem_Informasi.Properties.Resources.resources
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi Presensi Sistem Informasi.csproj.GenerateResource.cache
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi Presensi Sistem Informasi.csproj.CoreCompileInputs.cache
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi.1373B962.Up2Date
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi Presensi Sistem Informasi.exe
+D:\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi Presensi Sistem Informasi.pdb
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Google.Protobuf.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\MySql.Data.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Buffers.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Memory.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\ZstdSharp.dll
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Google.Protobuf.pdb
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Google.Protobuf.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\MySql.Data.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Buffers.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Memory.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi.1373B962.Up2Date
+C:\Users\Evlyn Shinta\source\repos\Aplikasi Presensi Sistem Informasi\Aplikasi Presensi Sistem Informasi\obj\Debug\Aplikasi_Presensi_Sistem_Informasi.FormSubmit.resources
